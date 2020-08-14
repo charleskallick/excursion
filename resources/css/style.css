@@ -1,0 +1,37 @@
+/* Excursion Styling */
+
+html {
+  font-size: 16px;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+}
+
+.link {
+  color: aquamarine;
+}
+
+h2 {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+p {
+  color: grey;
+  font-size: 21px;
+}
+
+footer {
+  color: grey;
+  text-align: right;
+}
